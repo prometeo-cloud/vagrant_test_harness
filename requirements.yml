@@ -1,0 +1,9 @@
+---
+# Include the src for the role you want to test below
+#- name: test_role
+#  src: https://github.com/prometeo-cloud/dockercompose_configure_machine
+
+# Include any dependent roles here
+#- name: Dependent_Role_Name_Here
+#  src: URI here
+...
