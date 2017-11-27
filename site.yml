@@ -1,0 +1,7 @@
+---
+- name: Testing Role using Vagrant
+  hosts: box
+  become: yes
+  roles:
+    - test_role
+...
